@@ -1,0 +1,182 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color: white;
+    width: 100%;
+}
+header {
+    background-color: black;
+    height: 100px;
+    width: 100%;
+
+}
+header button {
+    width: 60px;
+    height: 60px;
+    background-color: white;
+    border: none;
+    border-radius: 50px;
+    margin-left: 20px;
+}
+nav{
+    margin-left: 40%;
+    margin-top: -6%;
+}
+nav li{
+    display: inline-flex;
+    padding: 20px 20px;
+    margin-left: 30px;
+}
+nav li a{
+    text-decoration: none;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-weight: bold;
+}
+nav li:hover{
+    background-color: orange;
+    border-radius: 10px;
+}
+h1 {
+    font-family:Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 45px;
+    margin-left: 7%;
+    margin-top: -55px;
+}
+.marquee{
+    height: 100px;
+    width: 40%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 30px;
+}
+marquee {
+    font-family: sans-serif;
+    color: blue;
+    font-size: 35px;
+    text-align: center;
+    font-weight: bold;
+}
+
+.description{
+    font-size: 27px;
+    text-align: center;
+}
+
+.group{
+    width: 100%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.side-note{
+    width: fit-content;
+    font-size: 30px;
+    color: rgb(20, 27, 5);
+    margin-left: 55%;
+    margin-top: -25%;
+    
+}
+.side-note h3 {
+    text-align: center;
+    color: brown;
+}
+footer{
+    margin-top: 100px;
+    width: 100%;
+    background-color: rgb(11, 11, 41);
+    color: white;
+    height: 340px;
+}
+footer .first{
+    width: fit-content;
+    margin-left: 90px;
+}
+.first h4{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 30px;
+}
+.first p{
+    margin-top: -10px;
+}
+.first li {
+    list-style: none;
+    margin-top: 10px;
+
+} 
+.first li a{
+    text-decoration: none;
+    color: white;
+    margin-left: 10px;
+}
+.first button{
+    height: 40px;
+    width: 40px;
+    font-size: 22px;
+    color: black;
+    border-radius: 50px;
+    border: none;
+    margin-left: 10px;
+}
+.first button:hover{
+    background-color: blue;
+    transition: 0.4s;
+    
+}
+.first a:hover{
+    color: white;
+    transition: 0.4s;
+}
+.first button a{
+    color: black;
+}
+.second{
+    margin-left: 45%;
+    margin-top: -240px;
+    width: fit-content;
+}
+.second h4{
+    font-size: 25px;
+}
+.second li{
+    list-style: none;
+    margin-top: 18px;
+    
+
+}
+.second li a{
+    color: white;
+    text-decoration: none;
+    margin-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+}
+.second li a:hover{
+    color: red;
+}
+.third{
+    margin-left: 70%;
+    margin-top: -210px;
+    width: fit-content;
+}
+.third h4{
+    font-size: 25px;
+    margin-top:50px;
+}
+.third textarea{
+    margin-top: -10px;
+}
+.third button{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 25px;
+    width: 210px;
+    background-color: green;
+    color: white;
+    font-weight: bold;
+    border: none;
+}

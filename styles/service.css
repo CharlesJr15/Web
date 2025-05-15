@@ -1,0 +1,93 @@
+.container1 {
+    width: 300px;
+    height: 300px;
+    border-radius: 5px;
+    border-style: outset;
+}
+.container1 p{
+    text-align:center;
+}
+.container2 {
+    width: 300px;
+    height: 300px;
+    border-radius: 5px;
+    border-style: outset;
+    margin-left: 30%;
+    margin-top: -300px;
+}
+.container2 p{
+    text-align: center;
+}
+.container3 {
+    width: 300px;
+    height: 300px;
+    border-radius: 5px;
+    border-style: outset;
+    margin-left: 60%;
+    margin-top: -300px;
+}
+.container3 p{
+     text-align: center;
+}
+.container4 {
+    width: 300px;
+    height: 300px;
+    border-radius: 5px;
+    border-style: outset;
+}
+.container4 p{
+    text-align: center;
+}
+.container5 {
+    width: 300px;
+    height: 300px;
+    border-radius: 5px;
+    border-style: outset;
+    margin-left: 30%;
+    margin-top: -300px;
+}
+.container5 p{
+    text-align: center;
+}
+.container6 {
+    width: 300px;
+    height: 300px;
+    border-radius: 5px;
+    border-style: outset;
+    margin-left: 60%;
+    margin-top: -300px;
+}
+.container6 p{
+    text-align: center;
+}
+.container7 {
+    width: 300px;
+    height: 300px;
+    border-radius: 5px;
+    border-style: outset;
+}
+.container7 p{
+    text-align: center;
+}
+.container8 {
+    width: 300px;
+    height: 300px;
+    border-radius: 5px;
+    border-style: outset;
+    margin-left:30% ;
+    margin-top: -300px;
+}
+.container8 p{
+    text-align: center;
+}
+.container9 {
+    width: 300px;
+    height: 300px;
+    border-radius: 5px;
+    border-style: outset;
+    margin-left: 60%;
+    margin-top: -300px;
+}
+.container9 p{
+    text-align: center;
+}

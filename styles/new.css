@@ -1,0 +1,22 @@
+    body{
+        background-color: violet;
+    }
+    p{
+        text-align: justify;color: blue;font-size: medium;
+    }
+    label{
+        color: blueviolet;
+        font-weight: 600;
+        text-transform: capitalize;
+    }
+    button{
+        margin-left: 150px;
+        margin-top: 20px;
+    }
+
+section{
+    margin-left: 10%;
+}
+fieldset{
+    width: fit-content;
+}
